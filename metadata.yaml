@@ -6,6 +6,9 @@ contributor:
     alias: Louderback, Walter
     gutenberg_agent_id: '33504'
     url: http://www.gutenberg.org/2009/agents/33504
+covers:
+- cover_type: archival
+  image_path: 53997-h/images/cover.jpg
 creator:
   author:
     agent_name: Merwin, Samuel
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2744
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53997#Hills-of-Han-A-Romantic-Incident
 gutenberg_issued: '2017-01-18'
 gutenberg_type: Text
 identifiers:
